@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projecttrainingflutter/FlutterSplashScreen.dart';
+import 'package:projecttrainingflutter/screens/FlutterSplashScreen.dart';
 import 'package:projecttrainingflutter/models/User.dart';
 import 'package:projecttrainingflutter/screens/ScreenExerciseDescription.dart';
 import 'package:projecttrainingflutter/screens/ScreenExercises.dart';
