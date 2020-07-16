@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027048222700",
+    "firebase_url": "https://projecttraining-fea0c.firebaseio.com",
+    "project_id": "projecttraining-fea0c",
+    "storage_bucket": "projecttraining-fea0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027048222700:android:0ef544e367971df1035ac9",
+        "android_client_info": {
+          "package_name": "com.example.projecttrainingflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027048222700-ud25v6r9s88ku69ir9cgl6nefq9j69hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projecttrainingflutter",
+            "certificate_hash": "6a4e2e596949817e5fef8b129544a43f45302d1b"
+          }
+        },
+        {
+          "client_id": "1027048222700-j4cgenf6d3r8rpg8hkd24ku8v94nkve5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8uBuisCmzALxWZGPtE2eCWq8IVzTaJ0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027048222700-j4cgenf6d3r8rpg8hkd24ku8v94nkve5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
